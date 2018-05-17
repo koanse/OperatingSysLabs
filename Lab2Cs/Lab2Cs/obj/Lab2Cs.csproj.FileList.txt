@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Lab2Cs.MainForm.resources
+obj\Debug\Lab2Cs.Properties.Resources.resources
+obj\Debug\Lab2Cs.csproj.GenerateResource.Cache
+bin\Debug\Lab2Cs.exe
+bin\Debug\Lab2Cs.pdb
+obj\Debug\Lab2Cs.exe
+obj\Debug\Lab2Cs.pdb
+bin\Debug\WebChart.dll
